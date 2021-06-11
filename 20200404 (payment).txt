@@ -1,0 +1,5 @@
+<last name>  <hourly wage>      <hours worked>
+ hsiaoting              9                  11
+ zhenghong             12                   6
+hsiaohsiao             23                   2
+ hsiaohong             25                   3
